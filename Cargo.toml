@@ -13,7 +13,7 @@ version = "0.6.0"
 edition = "2018"
 # This metadata field is ignored by the actual MSRV, but it is useful for newer
 # Rust versions and crates.io to know the MSRV
-rust-version = "1.48"
+rust-version = "1.74"
 
 [badges]
 appveyor = { repository = "cardoe/stderrlog-rs", branch = "master", service = "github" }
